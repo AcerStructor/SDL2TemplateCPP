@@ -1,0 +1,5 @@
+#Ignore bear compile json
+compile_commands.json
+
+# Ignore object files
+obj/*.o
